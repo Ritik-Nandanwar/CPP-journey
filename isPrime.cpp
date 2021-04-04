@@ -14,7 +14,7 @@ int main()
             break;
         }
         else{
-            cout<<"IS A PRIME "<<endl;
+            cout<<"IS A PRIME 😃"<<endl;
             break;
         }
     }
